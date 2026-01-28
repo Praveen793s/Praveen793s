@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Praveen793s
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,css,html,js" />- 👋 Hi, I’m @Praveen793s
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning btech(AIML)
 - 💞️ I’m looking to collaborate on ...
